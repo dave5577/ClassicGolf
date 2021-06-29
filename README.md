@@ -2,8 +2,8 @@
 ClassicGolf Prototype Project HW and SW
 
 
-## HW - PCB Created in KiCAD
+### HW - PCB Created in KiCAD
 
-## HW - Electronics Housing design created in solidworks
+### HW - Electronics Housing design created in solidworks
 
-## SW - Adruino
+### SW - Adruino
